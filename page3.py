@@ -80,7 +80,7 @@ class PostgresqlDB:
 
 #Defining Db Credentials
 USER_NAME = 'postgres'
-PASSWORD = 'footystar7'
+PASSWORD = ''
 PORT = 5432
 DATABASE_NAME = 'newdb'
 HOST = 'localhost'
